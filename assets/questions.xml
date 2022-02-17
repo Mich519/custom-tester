@@ -1,0 +1,1166 @@
+﻿<test>
+	<question>
+		<description>Wizualizacja dla danych o dziedzinie wielowymiarowej i przeciwdziedzinie jednowymiarowej</description>
+		<answer1>Wykres mozaikowy</answer1>
+		<answer2>Wykres liniowy</answer2>
+		<answer3>Wykres słupkowy</answer3>
+		<answer4>Wykres typu "mapa"</answer4>
+	</question>
+	<question>
+		<description>Diagram o umieralności w wosjku z przed 150 lat, kogo?</description>
+		<answer1>Nightingale</answer1>
+		<answer2>Mirand</answer2>
+		<answer3>Napelon</answer3>
+		<answer4>Snow</answer4>
+	</question>
+	<question>
+		<description>Co obrazuje mapa Minarda?</description>
+		<answer1>Kampanie Napoleona</answer1>
+		<answer2>Umieralność w wojsku z przed 150 lat</answer2>
+		<answer3>Korelacje epidemii cholery z połóżeniem jednej z pomp</answer3>
+		<answer4>Równowaga rynku</answer4>
+	</question>
+	<question>
+		<description>Co pokazuje wykres Playfaira</description>
+		<answer1>Równowaga rynku</answer1>
+		<answer2>Kampanie Napoleona</answer2>
+		<answer3>Przyczyny śmierci w wojsku</answer3>
+		<answer4>Korelacja epidemii cholery z połóżeniem jednej z pomp</answer4>
+	</question>
+	<question>
+		<description>Mapa Snowa</description>
+		<answer1>Korelacja epidemii cholery z położeniem jednej z pomp</answer1>
+		<answer2>Przyczyny smierci w wojsku</answer2>
+		<answer3>Kampania Napoleona</answer3>
+		<answer4>Równowaga rynku</answer4>
+	</question>
+	<question>
+		<description>Co to jest wizualizacja danych?</description>
+		<answer1>Prezentacja zależności czegoś od czegoś</answer1>
+		<answer2>Prezentacja obiektu lub zjawiska</answer2>
+		<answer3>Kształtowanie obrazu w umyśle odbiorcy, osiągane za pomocą wzroku (najczęściej) lub innych zmysłów</answer3>
+		<answer4>Pokazywanie bazy danych</answer4>
+	</question>
+	<question>
+		<description>Co to jest wizualizacja (ogólnie)?</description>
+		<answer1>Kształtowanie obrazu w umyśle odbiorcy, osiągane za pomocą wzroku (najczęściej) lub innych zmysłów</answer1>
+		<answer2>Prezentacja obiektu lub zjawiska</answer2>
+		<answer3>Prezentacja zależności czegoś od czegoś</answer3>
+		<answer4>Przedmiot</answer4>
+	</question>
+	<question>
+		<description>Co to jest wizualizacja naukowa?</description>
+		<answer1>Prezentacja obiektu lub zjawiska</answer1>
+		<answer2>Prezentacja zależności czegoś od czegoś</answer2>
+		<answer3>Kształtowanie obrazu w umyśle odbiorcy, osiągane za pomocą wzroku (najczęściej) lub innych zmysłów</answer3>
+		<answer4>Baza danych naukowo</answer4>
+	</question>
+	<question>
+		<description>Jaki wykres służy tylko do danych jednowymiarowych</description>
+		<answer1>Percentylowy</answer1>
+		<answer2>Liniowy</answer2>
+		<answer3>Mapa</answer3>
+		<answer4>Mozaikowy</answer4>
+	</question>
+	<question>
+		<description>Dane jednowymiarowe</description>
+		<answer1>percentylowy wykres pudełkowy</answer1>
+		<answer2>mapa</answer2>
+		<answer3>kolumnowy</answer3>
+		<answer4>sieć rybacka</answer4>
+	</question>
+	<question>
+		<description>Dane jednowymiarowe</description>
+		<answer1>pudełkowy Tukeya</answer1>
+		<answer2>mapa</answer2>
+		<answer3>kolumnowy</answer3>
+		<answer4>sieć rybacka</answer4>
+	</question>
+	<question>
+		<description>Dane jednowymiarowe</description>
+		<answer1>iskres</answer1>
+		<answer2>liniowy</answer2>
+		<answer3>mapa</answer3>
+		<answer4>sieć rybacka</answer4>
+	</question>
+	<question>
+		<description>Dane jednowymiarowe</description>
+		<answer1>histogram</answer1>
+		<answer2>sieć rybacka</answer2>
+		<answer3>Mapa miasta</answer3>
+		<answer4>Kolaż zdjęć w albumie</answer4>
+	</question>
+	<question>
+		<description>Dane dwuwymiarowe</description>
+		<answer1>punktowy</answer1>
+		<answer2>percentylowy</answer2>
+		<answer3>macierz punktowa</answer3>
+		<answer4>radarowy</answer4>
+	</question>
+	<question>
+		<description>Dane dwuwymiarowe</description>
+		<answer1>pudełkowy</answer1>
+		<answer2>macierz punktowa</answer2>
+		<answer3>hiperpudło</answer3>
+		<answer4></answer4>
+	</question>
+	<question>
+		<description>Dane dwuwymiarowe</description>
+		<answer1>histogram</answer1>
+		<answer2>iskres</answer2>
+		<answer3>wielowymiarowe ikony</answer3>
+		<answer4>buźki Chernoffa</answer4>
+	</question>
+	<question>
+		<description>Dane trójwymiarowe</description>
+		<answer1>wykresy punktowe - prezentacja i rzuty 2D</answer1>
+		<answer2>histogram</answer2>
+		<answer3>patyczaki</answer3>
+		<answer4>wykres mozaikowy</answer4>
+	</question>
+	<question>
+		<description>Dane trójwymiarowe</description>
+		<answer1>macierz punktowa</answer1>
+		<answer2>buźki Chernoffa</answer2>
+		<answer3>patyczaki</answer3>
+		<answer4>iskres</answer4>
+	</question>
+	<question>
+		<description>Dane Trójwymiarowe</description>
+		<answer1>"topienie"</answer1>
+		<answer2>wykres mozaikowy</answer2>
+		<answer3>wykres pudełkowy</answer3>
+		<answer4>percentylowy wykres pudełkowy</answer4>
+	</question>
+	<question>
+		<description>Dane wielowymiarowe</description>
+		<answer1>sieć rybacka</answer1>
+		<answer2>wykres percentylowy</answer2>
+		<answer3>histogram</answer3>
+		<answer4>wykres pudełkowy Tukeya</answer4>
+	</question>
+	<question>
+		<description>Dane wielowymiarowe</description>
+		<answer1>mozaikowy</answer1>
+		<answer2>wykresy punktowe</answer2>
+		<answer3>macierz punktowa</answer3>
+		<answer4>iskres</answer4>
+	</question>
+	<question>
+		<description>Dane wielowymiarowe</description>
+		<answer1>radarowy</answer1>
+		<answer2>wykres punktowy</answer2>
+		<answer3>"topienie"</answer3>
+		<answer4>percentylowy wykres pudełkowy</answer4>
+	</question>
+	<question>
+		<description>Dane wielowymiarowe</description>
+		<answer1>hiperpudło</answer1>
+		<answer2>"topienie"</answer2>
+		<answer3>wykres percentylowy</answer3>
+		<answer4>macierz punktowa</answer4>
+	</question>
+	<question>
+		<description>Dane wielowymiarowe</description>
+		<answer1>wielowymiarowe ikony</answer1>
+		<answer2>wykresy punktowe - rzuty 2D</answer2>
+		<answer3>wykres pudełkowy Tukeya</answer3>
+		<answer4>histogram</answer4>
+	</question>
+	<question>
+		<description>Dane wielowymiarowe</description>
+		<answer1>buźki Chernoffa</answer1>
+		<answer2>wykresy punktowe - prezentacja 2D</answer2>
+		<answer3>wykres pudełkowy Tukeya</answer3>
+		<answer4>histogram</answer4>
+	</question>
+	<question>
+		<description>Dane wielowymiarowe</description>
+		<answer1>patyczaki</answer1>
+		<answer2>"topienie"</answer2>
+		<answer3>wykres percentylowy</answer3>
+		<answer4>macierz punktowa</answer4>
+	</question>
+	<question>
+		<description>Wykres pole wektorowe jest wizualizacją zależności...</description>
+		<answer1>X^2->Y^2</answer1>
+		<answer2>X->Y</answer2>
+		<answer3>X^2->Y</answer3>
+		<answer4>X->Y^2</answer4>
+	</question>
+	<question>
+		<description>X->Y</description>
+		<answer1>wykresy liniowe wykresy punktowe wykresy słupkowe wykresy kołowe</answer1>
+		<answer2>wykresy liniowe (zwykłe i warstwowe) wykresy punktowe wykresy słupkowe wykresy pierścieniowe wykres radarowy wykres sieć rybacka</answer2>
+		<answer3>wykresy powierzchniowe wykresy słupkowe wykresy typu mapa wykresy bąbelkowe</answer3>
+		<answer4>wykresy powierzchniowe wykresy słupkowe
+wykresy bąbelkowe
+wykres pole wektorowe</answer4>
+	</question>
+	<question>
+		<description>X -> Y^m (dla m > 1)</description>
+		<answer1>	wykresy liniowe (zwykłe i warstwowe)
+	wykresy punktowe
+	wykresy słupkowe
+	wykresy pierścieniowe
+	wykres radarowy
+	wykres sieć rybacka</answer1>
+		<answer2>	wykresy liniowe
+	wykresy punktowe
+	wykresy słupkowe
+	wykresy kołowe</answer2>
+		<answer3>	wykresy mozajkowe
+	animacja jednego wymiaru
+	przekroje jednego wymiaru</answer3>
+		<answer4>	wykresy powierzchniowe
+	wykresy słupkowe
+	wykresy bąbelkowe
+	wykres pole wektorowe</answer4>
+	</question>
+	<question>
+		<description>•	X^2 -> Y</description>
+		<answer1>	wykresy powierzchniowe
+	wykresy słupkowe
+	wykresy typu mapa
+	wykresy bąbelkowe</answer1>
+		<answer2>	wykresy powierzchniowe
+	wykresy słupkowe
+	wykresy bąbelkowe
+	wykres pole wektorowe</answer2>
+		<answer3>	wykresy liniowe
+	wykresy punktowe
+	wykresy słupkowe
+	wykresy kołowe</answer3>
+		<answer4>	wykresy mozajkowe
+	animacja jednego wymiaru
+	przekroje jednego wymiaru</answer4>
+	</question>
+	<question>
+		<description>X^2 -> Y^m</description>
+		<answer1>	wykresy powierzchniowe
+	wykresy słupkowe
+	wykresy bąbelkowe
+	wykres pole wektorowe</answer1>
+		<answer2>	wykresy mozajkowe
+	animacja jednego wymiaru
+	przekroje jednego wymiaru</answer2>
+		<answer3>	wykresy liniowe (zwykłe i warstwowe)
+	wykresy punktowe
+	wykresy słupkowe
+	wykresy pierścieniowe
+	wykres radarowy
+	wykres sieć rybacka</answer3>
+		<answer4>	wykresy liniowe
+	wykresy punktowe
+	wykresy słupkowe
+	wykresy kołowe</answer4>
+	</question>
+	<question>
+		<description>X^n -> Y^m dla m >= 1</description>
+		<answer1>	wykresy mozajkowe
+	animacja jednego wymiaru
+	przekroje jednego wymiaru</answer1>
+		<answer2>	wykresy powierzchniowe
+	wykresy słupkowe
+	wykresy bąbelkowe
+	wykres pole wektorowe</answer2>
+		<answer3>	wykresy powierzchniowe
+	wykresy słupkowe
+	wykresy typu mapa
+	wykresy bąbelkowe</answer3>
+		<answer4>	wykresy liniowe (zwykłe i warstwowe)
+	wykresy punktowe
+	wykresy słupkowe
+	wykresy pierścieniowe
+	wykres radarowy
+	wykres sieć rybacka</answer4>
+	</question>
+	<question>
+		<description>Jaka metoda umożliwia przeglądanie wielkiej ilości danych tabelarycznych? </description>
+		<answer1>Table Lens</answer1>
+		<answer2>Kwantyzacja</answer2>
+		<answer3>Dyfuzja Floyda-Steinberga</answer3>
+		<answer4>Antyaliasing</answer4>
+	</question>
+	<question>
+		<description>Porządkowanie danych pozwala dobrze ukazywać zależności w...</description>
+		<answer1>wykresie typu szachownicy</answer1>
+		<answer2>wykresie punktowym</answer2>
+		<answer3>typu mapa</answer3>
+		<answer4>sieci rybackiej</answer4>
+	</question>
+	<question>
+		<description>wykres liniowy</description>
+		<answer1>x->y</answer1>
+		<answer2>x->y^2</answer2>
+		<answer3>x^2->y</answer3>
+		<answer4>x^2->y^m, m>1</answer4>
+	</question>
+	<question>
+		<description>Dlugosc odcinka, kat nachylenia srednich, tip to kolejne wymiary</description>
+		<answer1>Patyczaki</answer1>
+		<answer2>Hiperpudlo</answer2>
+		<answer3>buzki Chernoffa</answer3>
+		<answer4>wielowymiarowe ikony</answer4>
+	</question>
+	<question>
+		<description>Buzki, kogo?</description>
+		<answer1>Chernoffa</answer1>
+		<answer2>Mira</answer2>
+		<answer3>Playfaira</answer3>
+		<answer4>Snowa</answer4>
+	</question>
+	<question>
+		<description>Co może przedstawiać reprezentacja wg położenia geograficznego</description>
+		<answer1>mapę polityczna, liczność populacji i PKB</answer1>
+		<answer2>śmiertelnośc ludzi, zyjący z HIV/AIDS i wydatki na zdrowie</answer2>
+		<answer3>zużycie energii i emisje gazów cieplarnianych</answer3>
+		<answer4>Wszystkie odpowiedzi są poprawne</answer4>
+	</question>
+	<question>
+		<description>Wyróznik danych wymagający ostrożnosci i uzywany w celach ostrzegawczych</description>
+		<answer1>Kolor</answer1>
+		<answer2>MIS</answer2>
+		<answer3>MOS</answer3>
+		<answer4>Skala</answer4>
+	</question>
+	<question>
+		<description>Do czego służy oprogramowanie Seesoft?</description>
+		<answer1>Ukazywania edycji kodu w czasie</answer1>
+		<answer2>Reprezentacji głosowej figur geometrycznych</answer2>
+		<answer3>Wspomagania osób niedowidzących</answer3>
+		<answer4>Analizowania najczęściej wykorzystywanego oprogramowania</answer4>
+	</question>
+	<question>
+		<description>Na czym polega przetwarzanie wybiorcze?</description>
+		<answer1>Na podniesieniu wartswy zainteresowania, obizenie pozostalych warstw i obrazowaniu przekrojów</answer1>
+		<answer2>Tylko przekroj</answer2>
+		<answer3>Obnizenie poziomu zainteresowania, brak wyszczegolnienia waznych warstw</answer3>
+		<answer4>Prezentacja dokumentow na plaszczyznie</answer4>
+	</question>
+	<question>
+		<description>Na czym polega przetwarzanie dynamiczne automatyczne?</description>
+		<answer1>animacji wedlug parametrów</answer1>
+		<answer2>zmianie parametrów okreslających zależnosci</answer2>
+		<answer3></answer3>
+		<answer4></answer4>
+	</question>
+	<question>
+		<description>Na czym polega przetwarzanie dynamiczne ręczne?</description>
+		<answer1>zmianie parametrów okreslających zależnosci</answer1>
+		<answer2>animacji wedlug parametrów</answer2>
+		<answer3></answer3>
+		<answer4></answer4>
+	</question>
+	<question>
+		<description>Co umozliwia wizualizacje ogrmonej liczby danych tabelraycznych?</description>
+		<answer1>Table Lens</answer1>
+		<answer2>LaSens Table</answer2>
+		<answer3>Szachownica</answer3>
+		<answer4>Kwantyzacja</answer4>
+	</question>
+	<question>
+		<description>Wykres kluczy to</description>
+		<answer1>Wykres Kagi</answer1>
+		<answer2>Som</answer2>
+		<answer3>Diagram Gantta</answer3>
+		<answer4>Kartogram</answer4>
+	</question>
+	<question>
+		<description>Skalowanei wielowymiarowe</description>
+		<answer1>Rozmieszczenie podobnych rzeczy blizej siebie</answer1>
+		<answer2>Przerzucenie wymiaru na kilka</answer2>
+		<answer3>Rozdrobnienie obrazu</answer3>
+		<answer4>Wyszczegolowienie waznych informacji</answer4>
+	</question>
+	<question>
+		<description>Generator fali sinusoidalnej, ktora podajemy obrobce celem zmiany brzmienia</description>
+		<answer1>Synteza subtraktywna</answer1>
+		<answer2>Synteza addytywna</answer2>
+		<answer3>Synteza FM</answer3>
+		<answer4>Sampling</answer4>
+	</question>
+	<question>
+		<description>Ksztaltujemy widmo, aby uzyskac konkretne brzmienie</description>
+		<answer1>Synteza addytywna</answer1>
+		<answer2>Synteza substraktywna</answer2>
+		<answer3>Sampling</answer3>
+		<answer4>Modelowanie matematyczne</answer4>
+	</question>
+	<question>
+		<description>Synteza bazująca na równaniach różniczkowych</description>
+		<answer1>metoda matematyczna</answer1>
+		<answer2>Synteza substraktywna</answer2>
+		<answer3>Synteza FM</answer3>
+		<answer4>metoda analityczna</answer4>
+	</question>
+	<question>
+		<description>Synteza w której wykorzystujemy bazę próbek</description>
+		<answer1>Sampling</answer1>
+		<answer2>Synteza substraktywna</answer2>
+		<answer3>Synteza addytywna</answer3>
+		<answer4>metoda matematyczna</answer4>
+	</question>
+	<question>
+		<description>Wykorzystujemy modulacje czestotliwosci, uzalezniamy czestotliwosc od kolejnej funkcji</description>
+		<answer1>Synteza FM</answer1>
+		<answer2>Synteza substraktywna</answer2>
+		<answer3>Synteza addytywna</answer3>
+		<answer4>Sampling</answer4>
+	</question>
+	<question>
+		<description>bezpośrednie tłumaczenie układu pikseli do postaci dźwięku to</description>
+		<answer1>Smartsight</answer1>
+		<answer2>SVPL</answer2>
+		<answer3>CAITLIN</answer3>
+		<answer4>SOM</answer4>
+	</question>
+	<question>
+		<description>Przykładem sonifikacji w programowaniu nie jest</description>
+		<answer1>SOM</answer1>
+		<answer2>SVPL</answer2>
+		<answer3>CAITLIN</answer3>
+		<answer4>sortowanie bąbelkowe wizualizowane dźwiękiem</answer4>
+	</question>
+	<question>
+		<description>konkretny dzwiek, jako wiadomosc</description>
+		<answer1>Ikony dzwiekowe - "auditory icons"</answer1>
+		<answer2>Earcons</answer2>
+		<answer3>Audyfikacja</answer3>
+		<answer4>Mapowanie parametrow</answer4>
+	</question>
+	<question>
+		<description>Bezposrednie odwzorowanie danych numerycznych</description>
+		<answer1>Audyfikacja</answer1>
+		<answer2>Ikony dzwiekowe - "auditory icons"</answer2>
+		<answer3>Earcons</answer3>
+		<answer4>Mapowanie parametrow</answer4>
+	</question>
+	<question>
+		<description>wykresy liniowe</description>
+		<answer1>x->y</answer1>
+		<answer2>x^2->y</answer2>
+		<answer3>x^2->y^m</answer3>
+		<answer4>x^n->y^m, m>=1</answer4>
+	</question>
+	<question>
+		<description>wykresy liniowe</description>
+		<answer1>x->y^m</answer1>
+		<answer2>x^2->y</answer2>
+		<answer3>x^2->y^m</answer3>
+		<answer4>x^n->y^m, m>=1</answer4>
+	</question>
+	<question>
+		<description>punktowe</description>
+		<answer1>x->y</answer1>
+		<answer2>x^2->y</answer2>
+		<answer3>x^2->y^m</answer3>
+		<answer4>x^n->y^m, m>=1</answer4>
+	</question>
+	<question>
+		<description>punktowe</description>
+		<answer1>x->y^m</answer1>
+		<answer2>x^2->y</answer2>
+		<answer3>x^2->y^m</answer3>
+		<answer4>x^n->y^m, m>=1</answer4>
+	</question>
+	<question>
+		<description>które nie opisuje słupkowych</description>
+		<answer1>x^n->y^m, m>=1</answer1>
+		<answer2>x^2->y</answer2>
+		<answer3>x->y</answer3>
+		<answer4>x->y^m</answer4>
+	</question>
+	<question>
+		<description>które nie opisuje słupkowych</description>
+		<answer1>x^2->y^m</answer1>
+		<answer2>x^2->y</answer2>
+		<answer3>x->y</answer3>
+		<answer4>x->y^m</answer4>
+	</question>
+	<question>
+		<description>kolowe</description>
+		<answer1>X->Y</answer1>
+		<answer2>X->Y^m</answer2>
+		<answer3>X^2->Y</answer3>
+		<answer4>X^2->Y^m</answer4>
+	</question>
+	<question>
+		<description>wykres pierscieniowy</description>
+		<answer1>X->Y^m</answer1>
+		<answer2>X->Y</answer2>
+		<answer3>X^2->Y</answer3>
+		<answer4>X^2->Y^m</answer4>
+	</question>
+	<question>
+		<description>typu mapa</description>
+		<answer1>X^2->Y</answer1>
+		<answer2>X->Y^2</answer2>
+		<answer3>X->Y</answer3>
+		<answer4>X^m->Y^n, n=>1</answer4>
+	</question>
+	<question>
+		<description>typu mapa</description>
+		<answer1>X^2->Y^m</answer1>
+		<answer2>X->Y^2</answer2>
+		<answer3>X->Y</answer3>
+		<answer4>X^m->Y^n, n=>1</answer4>
+	</question>	
+	<question>
+		<description>radarowe</description>
+		<answer1>X->Y^m</answer1>
+		<answer2>X^2->Y^m</answer2>
+		<answer3>X->Y</answer3>
+		<answer4>X^m->Y^n, n=>1</answer4>
+	</question>
+	<question>
+		<description>Sieć rybacka (odwzorowanie):</description>
+		<answer1>X -> Y^m , m>1</answer1>
+		<answer2>X^2 -> Y^m, m>1</answer2>
+		<answer3>X^n -> Y^m, n>1, m=>1</answer3>
+		<answer4>X->Y</answer4>
+	</question>
+	<question>
+		<description>sieć rybacka</description>
+		<answer1>X->Y^m</answer1>
+		<answer2>X^2->Y^m</answer2>
+		<answer3>X->Y</answer3>
+		<answer4>X^m->Y^n, n=>1</answer4>
+	</question>	
+	<question>
+		<description>powierzchniowe</description>
+		<answer1>X^2->Y</answer1>
+		<answer2>X->Y</answer2>
+		<answer3>X->Y^m</answer3>
+		<answer4>X^n->Y^m, m => 1</answer4>
+	</question>
+	<question>
+		<description>powierzchniowe</description>
+		<answer1>X^2->Y^m</answer1>
+		<answer2>X->Y</answer2>
+		<answer3>X^n->Y^m, m => 1</answer3>
+		<answer4>X->Y^m</answer4>
+	</question>
+	<question>
+		<description>babelkowe</description>
+		<answer1>X^2->Y</answer1>
+		<answer2>X->Y</answer2>
+		<answer3>X^n->Y^m, m => 1</answer3>
+		<answer4>X->Y^m</answer4>
+	</question>
+	<question>
+		<description>babelkowe</description>
+		<answer1>X^2->Y^m</answer1>
+		<answer2>X->Y</answer2>
+		<answer3>X^n->Y^m, m => 1</answer3>
+		<answer4>X->Y^m</answer4>
+	</question>
+	<question>
+		<description>typu "mapa"</description>
+		<answer1>X^2->Y</answer1>
+		<answer2>X->Y</answer2>
+		<answer3>X^n->Y^m, m => 1</answer3>
+		<answer4>X->Y^m</answer4>
+	</question>
+	<question>
+		<description>animacja jednego wymiaru</description>
+		<answer1>X^n->Y^m, m => 1</answer1>
+		<answer2>X->Y</answer2>
+		<answer3>X^2->Y</answer3>
+		<answer4>X->Y^m</answer4>
+	</question>
+	<question>
+		<description>przekroje jednego wymiaru</description>
+		<answer1>X^n->Y^m, m => 1</answer1>
+		<answer2>X->Y</answer2>
+		<answer3>X^2->Y</answer3>
+		<answer4>X->Y^m</answer4>
+	</question>
+	<question>
+		<description>wykresy mozaikowe</description>
+		<answer1>X^n->Y^m, m => 1</answer1>
+		<answer2>X->Y</answer2>
+		<answer3>X^2->Y</answer3>
+		<answer4>X->Y^m</answer4>
+	</question>
+	<question>
+		<description>Przykładem przeglądania jednowymiarowego sa?</description>
+		<answer1>Listy</answer1>
+		<answer2>Mapy dokumentów</answer2>
+		<answer3></answer3>
+		<answer4></answer4>
+	</question>
+	<question>
+		<description>Przykładem przeglądania dwuwymiarowego sa?</description>
+		<answer1>Mapy dokumentów</answer1>
+		<answer2>Listy</answer2>
+		<answer3></answer3>
+		<answer4></answer4>
+	</question>
+	<question>
+		<description>Wizualizacje stosujemy w celu?</description>
+		<answer1>Lepszego zrozumienia informacji</answer1>
+		<answer2>wyszukiwania trendów i zależności</answer2>
+		<answer3>w celu zwiekszenia wydajnosci i doszukiwania sie zwiazkow ktore nornmalnie nie bylyby widoczne</answer3>
+		<answer4>Wszystkie odpowiedzi sa poprawne</answer4>
+	</question>
+	<question>
+		<description>Przykładami złudzeń wzrokowych jednoznacznych jest</description>
+		<answer1>kontrast</answer1>
+		<answer2>figury alternatywne</answer2>
+		<answer3>figury niemozliwe</answer3>
+		<answer4>sylwetki alternatywne</answer4>
+	</question>
+	<question>
+		<description>Przykładami złudzeń wzrokowych jednoznacznych jest</description>
+		<answer1>kształt</answer1>
+		<answer2>figury alternatywne</answer2>
+		<answer3>figury niemozliwe</answer3>
+		<answer4>sylwetki alternatywne</answer4>
+	</question>
+	<question>
+		<description>Przykładami złudzeń wzrokowych jednoznacznych jest</description>
+		<answer1>wielkość</answer1>
+		<answer2>figury alternatywne</answer2>
+		<answer3>figury niemozliwe</answer3>
+		<answer4>sylwetki alternatywne</answer4>
+	</question>
+	<question>
+		<description>Przykładami złudzeń wzrokowych jednoznacznych jest</description>
+		<answer1>ruch</answer1>
+		<answer2>figury alternatywne</answer2>
+		<answer3>figury niemozliwe</answer3>
+		<answer4>sylwetki alternatywne</answer4>
+	</question>
+	<question>
+		<description>Przykładami złudzeń wzrokowych jednoznacznych jest</description>
+		<answer1>przestrzeń</answer1>
+		<answer2>figury alternatywne</answer2>
+		<answer3>figury niemozliwe</answer3>
+		<answer4>sylwetki alternatywne</answer4>
+	</question>
+	<question>
+		<description>Przykładami złudzeń wzrokowych wieloznacznych jest</description>
+		<answer1>figury alternatywne</answer1>
+		<answer2>ruch</answer2>
+		<answer3>kontrast</answer3>
+		<answer4>wielkość</answer4>
+	</question>	
+	<question>
+		<description>Przykładami złudzeń wzrokowych wieloznacznych jest</description>
+		<answer1>sylwetki alternatywne</answer1>
+		<answer2>ruch</answer2>
+		<answer3>kontrast</answer3>
+		<answer4>wielkość</answer4>
+	</question>
+	<question>
+		<description>Przykładami złudzeń wzrokowych wieloznacznych jest</description>
+		<answer1>figury niemozliwe</answer1>
+		<answer2>ruch</answer2>
+		<answer3>przestrzen</answer3>
+		<answer4>wielkość</answer4>
+	</question>
+	<question>
+		<description>Jaka jest poprawna kolejność działania algorytmu WEBSOM?</description>
+		<answer1>Utworzenie słownika/Określenie każdego dokumentu wektorem/Formowanie mapy dokumentów</answer1>
+		<answer2>Określenie każdego dokumentu wektorem/Utworzenie słownika/Formowanie mapy dokumentów</answer2>
+		<answer3>Utworzenie słownika/Formowanie mapy dokumentów/Określenie każdego dokumentu wektorem</answer3>
+		<answer4>Określenie każdego dokumentu wektorem/Formowanie mapy dokumentów/Utworzenie słownika</answer4>
+	</question>
+	<question>
+		<description>Rozwiń skrót SOM</description>
+		<answer1>self-organizing map</answer1>
+		<answer2>single object management</answer2>
+		<answer3>self-oriented map</answer3>
+		<answer4>self-organizing matrix</answer4>
+	</question>
+	<question>
+		<description>Twórca algorytmu SOM</description>
+		<answer1>Teuvo Kohonen</answer1>
+		<answer2>Marek Kubale</answer2>
+		<answer3>Edward Tufte</answer3>
+		<answer4>Reingold-Tilford</answer4>
+	</question>
+	<question>
+		<description>Jaka jest poprawna kolejność działania algorytmu SOM?</description>
+		<answer1>Inicjalizacja mapy/losowy wybor probki/wyszukiwanie najblizszego sasiada/przeskalowanie sasiadow</answer1>
+		<answer2>Losowy wybor probki/Wyszukiwanie najblizszego sasiada/Przeskalowanie sasiadow/Inicjalizacja mapy</answer2>
+		<answer3>Inicjalizacja mapy/wyszukiwanie najblizszego sasiada/losowy wybor probkiprze/skalowanie sasiadow</answer3>
+		<answer4>Inicjalizacja mapy/przeskalowanie sasiadow/losowy wybor probki/wyszukiwanie najblizszego sasiada</answer4>
+	</question>
+	<question>
+		<description>Co oznacza skrót MIS</description>
+		<answer1>months in service</answer1>
+		<answer2>management information system</answer2>
+		<answer3>mounting interface standard</answer3>
+		<answer4>minimally isostope stage</answer4>
+	</question>	
+	<question>
+		<description>Co oznacza skrót MOS</description>
+		<answer1>months in production</answer1>
+		<answer2>mean opinion score</answer2>
+		<answer3>metal oxide semiconductor</answer3>
+		<answer4>microsoft office specialist</answer4>
+	</question>
+	<question>
+		<description>węzły i gałęzie sa metodą?</description>
+		<answer1>wizualizacji hierarchi</answer1>
+		<answer2>skalowania wielowymiarowego</answer2>
+		<answer3>przeglądania jednowymiarowego</answer3>
+		<answer4>przeglądanie dwuwymiarowego</answer4>
+	</question>
+	<question>
+		<description>wypełnienia sa metodą?</description>
+		<answer1>wizualizacji hierarchi</answer1>
+		<answer2>skalowania wielowymiarowego</answer2>
+		<answer3>przyblizenia geometrycznego</answer3>
+		<answer4>przyblizenia semantycznego</answer4>
+	</question>
+	<question>
+		<description>wizualizacja ortogonalna jest metodą?</description>
+		<answer1>wizualizacji hierarchi</answer1>
+		<answer2>drzewa sopli</answer2>
+		<answer3>radialna</answer3>
+		<answer4>promieni słonecznych</answer4>
+	</question>
+	<question>
+		<description>Twórcami skalowania klasycznego w skalowaniu wielowymiarowym są?</description>
+		<answer1>Torgersona-Gowera</answer1>
+		<answer2>Reingolda-Tilforda</answer2>
+		<answer3>Kentucky-Fried-Chickena</answer3>
+		<answer4>Wetherella-Shannona</answer4>
+	</question>	
+	<question>
+		<description>Podaj przykład wizualizacji wykresu prównawczego</description>
+		<answer1>wykres Kagi</answer1>
+		<answer2>kartogramy</answer2>
+		<answer3>diagram Gantta</answer3>
+		<answer4>cyklogramy</answer4>
+	</question>
+	<question>
+		<description>Rodzajem syntezy dźwięku nie jest</description>
+		<answer1>metoda audyfikacji</answer1>
+		<answer2>metoda addytywna i subtraktywna</answer2>
+		<answer3>metoda matematyczna i sampling</answer3>
+		<answer4>metoda FM</answer4>
+	</question>
+	<question>
+		<description>Który z poniżych nie jest rodzajem słyszenia</description>
+		<answer1>słyszenie parametryczne</answer1>
+		<answer2>słyszenie ukierunkowane na źródło</answer2>
+		<answer3>słyszenie muzyczne</answer3>
+		<answer4>słyszane analitycznie</answer4>
+	</question>
+	<question>
+		<description>Podaj przykład wizualizacji mapy wystepowania</description>
+		<answer1>kartogramy</answer1>
+		<answer2>wykres kluczy</answer2>
+		<answer3>diagram Gantta</answer3>
+		<answer4>cyklogramy</answer4>
+	</question>
+	<question>
+		<description>Podaj przykład wizualizacji wykresu wypełnienia</description>
+		<answer1>diagram Gantta</answer1>
+		<answer2>diagram sieciowy</answer2>
+		<answer3>diagram przepływu danych</answer3>
+		<answer4>wykres Kagi</answer4>
+	</question>
+	<question>
+		<description>Podaj przykład wizualizacji wykresu wypełnienia</description>
+		<answer1>diagram łańcucha zdarzeń</answer1>
+		<answer2>diagram sieciowy</answer2>
+		<answer3>diagram przepływu danych</answer3>
+		<answer4>kartogramy</answer4>
+	</question>
+	<question>
+		<description>Podaj przykład wizualizacji shcematów blokowych</description>
+		<answer1>diagram przepływu danych</answer1>
+		<answer2>wykres kluczy</answer2>
+		<answer3>diagram Gantta</answer3>
+		<answer4>cyklogramy</answer4>
+	</question>
+	<question>
+		<description>Podaj przykład wizualizacji shcematów blokowych</description>
+		<answer1>diagram sieciowy</answer1>
+		<answer2>wykres Kagi</answer2>
+		<answer3>diagram Gantta</answer3>
+		<answer4>cyklogramy</answer4>
+	</question>
+	<question>
+		<description>Czym jest diagram Gantta</description>
+		<answer1>graficzną reprezentacją harmonogramu stosowaną w zarządzaniu projektowym</answer1>
+		<answer2>graficzną reprezentacją sytuacji giełdowych</answer2>
+		<answer3>graficzną reprezentacją wystepowania konkretnych danych w regionie</answer3>
+		<answer4>graficzną reprezentacja przpływu danych między operacjami procesu</answer4>
+	</question>
+	<question>
+		<description>Za co odpowiedzialny jest wykres Kagi</description>
+		<answer1>Inaczej wykres kluczy, informuje o zmianach sytuacji giełdowych jin-jang - kupno, jang-jin - sprzedaż</answer1>
+		<answer2>Inaczej wykres kluczy, informuje o zmianach sytuacji giełdowych jin-jang - sprzedaż, jang-jin - kupno</answer2>
+		<answer3>Stosowanym w zarządzaniu projektowym, informującym o procentowej realizacji zadań</answer3>
+		<answer4>Reprezentacje graficzną projektu w czasie za pomocą grafu skierowanego.</answer4>
+	</question>
+	<question>
+		<description>Dowolnie zacieniowany prostokąt w Diagramie Gantta reprezentuje</description>
+		<answer1>zadanie krytyczne</answer1>
+		<answer2>zadanie niektrytyczne</answer2>
+		<answer3>podsumowanie</answer3>
+		<answer4>kamień milowy</answer4>
+	</question>
+	<question>
+		<description>prostokat bez wypełnienia w Diagramie Gantta reprezentuje</description>
+		<answer1>zadanie niektrytyczne</answer1>
+		<answer2>zadanie ktrytyczne</answer2>
+		<answer3>podsumowanie</answer3>
+		<answer4>kamień milowy</answer4>
+	</question>
+	<question>
+		<description>wypełniony prostokąt z ząbkami na końcach w Diagramie Gantta reprezentuje</description>
+		<answer1>podsumowanie</answer1>
+		<answer2>zadanie ktrytyczne</answer2>
+		<answer3>zadanie niektrytyczne</answer3>
+		<answer4>kamień milowy</answer4>
+	</question>
+	<question>
+		<description>wypełniony romb w Diagramie Gantta reprezentuje</description>
+		<answer1>kamień milowy</answer1>
+		<answer2>zadanie ktrytyczne</answer2>
+		<answer3>zadanie niektrytyczne</answer3>
+		<answer4>podsumowanie</answer4>
+	</question>
+	<question>
+		<description>Zadanie krytyczne w diagramach Gantta to:</description>
+		<answer1> dowolnie zacieniowany prostokąt
+ zadanie istotne i niepomijalne</answer1>
+		<answer2> prostokąt bez wypełnienia
+ zadanie mniej istotne nie warunkuje jego powodzenia</answer2>
+		<answer3> prostokąt wypełniony z ząbkami na końcu
+ spina zadania krytyczne i niekrytyczne
+ jest to oznaczenie pewnego etapu projektu
+ zazwyczaj występuje po nim kamień milowy</answer3>
+		<answer4>  wypełniony romb
+ sygnał zakończenia pewnej fazy zadania
+ sygnalizuje przejście do kolejnego etapu</answer4>
+	</question>	
+	<question>
+		<description>Zadanie niekrytyczne w diagramach Gantta to:</description>
+		<answer1> prostokąt bez wypełnienia
+ zadanie mniej istotne nie warunkuje jego powodzenia</answer1>
+		<answer2> dowolnie zacieniowany prostokąt
+ zadanie istotne i niepomijalne</answer2>
+		<answer3> prostokąt wypełniony z ząbkami na końcu
+ spina zadania krytyczne i niekrytyczne
+ jest to oznaczenie pewnego etapu projektu
+ zazwyczaj występuje po nim kamień milowy</answer3>
+		<answer4>  wypełniony romb
+ sygnał zakończenia pewnej fazy zadania
+ sygnalizuje przejście do kolejnego etapu</answer4>
+	</question>	
+	<question>
+		<description>Podsumowanie w diagramach Gantta to:</description>
+		<answer1> prostokąt wypełniony z ząbkami na końcu
+ spina zadania krytyczne i niekrytyczne
+ jest to oznaczenie pewnego etapu projektu
+ zazwyczaj występuje po nim kamień milowy</answer1>
+		<answer2> prostokąt bez wypełnienia
+ zadanie mniej istotne nie warunkuje jego powodzenia</answer2>
+		<answer3> wypełniony romb
+ sygnał zakończenia pewnej fazy zadania
+ sygnalizuje przejście do kolejnego etapu</answer3>
+		<answer4> dowolnie zacieniowany prostokąt
+ zadanie istotne i niepomijalne</answer4>
+	</question>	
+	<question>
+		<description>Kamień milowy w diagramach Gantta to:</description>
+		<answer1> wypełniony romb
+ sygnał zakończenia pewnej fazy zadania
+ sygnalizuje przejście do kolejnego etapu</answer1>
+		<answer2> prostokąt bez wypełnienia
+ zadanie mniej istotne nie warunkuje jego powodzenia</answer2>
+		<answer3> prostokąt wypełniony z ząbkami na końcu
+ spina zadania krytyczne i niekrytyczne
+ jest to oznaczenie pewnego etapu projektu
+ zazwyczaj występuje po nim kamień milowy</answer3>
+		<answer4> dowolnie zacieniowany prostokąt
+ zadanie istotne i niepomijalne</answer4>
+	</question>
+	<question>
+		<description>Na co pozwala diagram Gantta</description>
+		<answer1>Pozwala na określanie przebiegu etapów i informowanie w formie procentowej realizacji danych zadań</answer1>
+		<answer2>Reprezentacje po przez zaznaczenie kolorem lub deseniem wielkości danych związanych z obszarem</answer2>
+		<answer3>Ukazywanie przepływu danych między poszczególnymi operacjami procesu</answer3>
+		<answer4>Pokazywanie relacji między zdarzeniami i zadaniami oraz wpływu poszczególnych zdarzeń na siebie</answer4>
+	</question>
+	<question>
+		<description>Na co pozwalaja kartogramy</description>
+		<answer1>Reprezentacje po przez zaznaczenie kolorem lub deseniem wielkości danych związanych z obszarem</answer1>
+		<answer2>Graficzne przedstawienie projektu w czasie</answer2>
+		<answer3>Pokazywanie relacji między zdarzeniami i zadaniami oraz wpływu poszczególnych zdarzeń na siebie</answer3>
+		<answer4>Ukazywanie przepływu danych między poszczególnymi operacjami procesu</answer4>
+	</question>
+	<question>
+		<description>Na co pozwala diagram łańcucha zdarzeń</description>
+		<answer1>Pokazywanie relacji między zdarzeniami i zadaniami oraz wpływu poszczególnych zdarzeń na siebie</answer1>
+		<answer2>Pozwala na określanie przebiegu etapów i informowanie w formie procentowej realizacji danych zadań</answer2>
+		<answer3>Reprezentacje po przez zaznaczenie kolorem lub deseniem wielkości danych związanych z obszarem</answer3>
+		<answer4>Ukazywanie przepływu danych między poszczególnymi operacjami procesu</answer4>
+	</question>
+	<question>
+		<description>Na co pozwala diagram przepływu danych</description>
+		<answer1>Ukazywanie przepływu danych między poszczególnymi operacjami procesu</answer1>
+		<answer2>Pokazywanie relacji między zdarzeniami i zadaniami oraz wpływu poszczególnych zdarzeń na siebie</answer2>
+		<answer3>Graficzne przedstawienie projektu w czasie</answer3>
+		<answer4>Reprezentacje po przez zaznaczenie kolorem lub deseniem wielkości danych związanych z obszarem</answer4>
+	</question>	
+	<question>
+		<description>Na co pozwala diagram sieciowy</description>
+		<answer1>Graficzne przedstawienie projektu w czasie</answer1>
+		<answer2>Pokazywanie relacji między zdarzeniami i zadaniami oraz wpływu poszczególnych zdarzeń na siebie</answer2>
+		<answer3>Pozwala na określanie przebiegu etapów i informowanie w formie procentowej realizacji danych zadań</answer3>
+		<answer4>Reprezentacje po przez zaznaczenie kolorem lub deseniem wielkości danych związanych z obszarem</answer4>
+	</question>
+	<question>
+		<description>Elementy składowe takie jak: aktorzy(prostokąty), procesy(prostokąty z zaokraglonymi rogami), magazyny danych(linie), przepływy(strzalki) są elementami diagramu</description>
+		<answer1>przepływu danych</answer1>
+		<answer2>sieciowego</answer2>
+		<answer3>łańcucha zdarzeń</answer3>
+		<answer4>Gantta</answer4>
+	</question>
+	<question>
+		<description>Co w diagramie sieciowym reprezentują wierzchołki i łuki?</description>
+		<answer1>wierzchołki - zadania składające się na projekt
+łuki - ukierunkowane powiązania pomiędzy zadaniami</answer1>
+		<answer2>wierzchołki - zadania składające się na projekt
+łuki - nieukierunkowane powiązania pomiędzy zadaniami</answer2>
+		<answer3>wierzchołki - osoby wchodzące w skład grupy projektowej
+łuki - powiązania między tymi osobami</answer3>
+		<answer4>wierzchołki - punkty dostępu w sieci
+łuki - koszt przebycia drogi pomiędzy punktami dostępu</answer4>
+	</question>
+		<question>
+		<description>Jak definiujemy głośność?</description>
+		<answer1>amplituda sygnału, może być zakłócona przez środowisko</answer1>
+		<answer2>wrażenie słuchowe spowodowane falami akustycznymi 16Hz - 16KHz</answer2>
+		<answer3>dźwięk jako suma sygnałów o róźnych częstotliwościach</answer3>
+		<answer4>trudna do zdefiniowania, bliska strukturze widmowej</answer4>
+	</question><question>
+		<description>Czym jest Sonifikacja</description>
+		<answer1>przekształcanie danych do postaci relacji postrzeganych w sygnale akustycznym (wizualizacja akustyczna)</answer1>
+		<answer2>Analizą danych sejsmicznych</answer2>
+		<answer3>Analizą danych statycznych, przeszukiwanie separowanych klas</answer3>
+		<answer4>Reprezentacją głosową figur</answer4>
+	</question>
+	<question>
+		<description>Do typów sonifikacji nie zaliczamy</description>
+		<answer1>earcons - dźwięki abstraktcyjne
+ikony dźwiękowe - sygnały dźwiękowe z życia codziennego</answer1>
+		<answer2>FM - modulacja częstotliwiściowa, uzależniamy modulacje od poprzedniej funkcji</answer2>
+		<answer3>mapowanie parametrów - zmiana max 20 parametrów</answer3>
+		<answer4>audyfikacja - próbki sygnału przekształcone w falę dźwiękową</answer4>
+	</question>
+	<question>
+		<description>Wymień rodzaje wizualizacji(podział ze względu na formę)</description>
+		<answer1> wykresy porównawcze(statystyczne)
+ mapy występowania
+ wykresy wypełnienia
+ schematy blokowe</answer1>
+		<answer2> proste
+ złożone</answer2>
+		<answer3>wykresy punktowe
+wykresy liniowe
+ zwykłe i warstwowe
+wykresy słupkowe
+ grupowane i skumulowane
+wykresy pierścieniowe
+wykresy przestrzenne
+powierzchniowe i słupkowe</answer3>
+		<answer4>dla małych różnic:
+ punktowe, liniowe
+ słupkowe pionowe i poziome
+ biegunowe(pajęczyna)
+ kołowe
+dla dużych różnic:
+ powierzchniowe
+ obrazkowe(symbole)
+dla ogromnych różnic:
+ przestrzenne</answer4>
+	</question>
+	<question>
+		<description>Wymień rodzaje wykresów(podział ze względu na zależności)</description>
+		<answer1> proste
+ złożone</answer1>
+		<answer2> wykresy porównawcze(statystyczne)
+ mapy występowania
+ wykresy wypełnienia
+ schematy blokowe</answer2>
+		<answer3>dla małych różnic:
+ punktowe, liniowe
+ słupkowe pionowe i poziome
+ biegunowe(pajęczyna)
+ kołowe
+dla dużych różnic:
+ powierzchniowe
+ obrazkowe(symbole)
+dla ogromnych różnic:
+ przestrzenne</answer3>
+		<answer4>wykresy punktowe
+wykresy liniowe
+ zwykłe i warstwowe
+wykresy słupkowe
+ grupowane i skumulowane
+wykresy pierścieniowe
+wykresy przestrzenne
+powierzchniowe i słupkowe</answer4>
+	</question>	
+	<question>
+		<description>Wymień wykresy porównawcze proste</description>
+		<answer1>dla małych różnic:
+ punktowe, liniowe
+ słupkowe pionowe i poziome
+ biegunowe(pajęczyna)
+ kołowe
+dla dużych różnic:
+ powierzchniowe
+ obrazkowe(symbole)
+dla ogromnych różnic:
+ przestrzenne</answer1>
+		<answer2>wykresy punktowe
+wykresy liniowe
+ zwykłe i warstwowe
+wykresy słupkowe
+ grupowane i skumulowane
+wykresy pierścieniowe
+wykresy przestrzenne
+powierzchniowe i słupkowe</answer2>
+		<answer3> wykresy porównawcze(statystyczne)
+ mapy występowania
+ wykresy wypełnienia
+ schematy blokowe</answer3>
+		<answer4> proste
+ złożone</answer4>
+	</question>	
+	<question>
+		<description>Wymień wykresy porównawcze złożone</description>
+		<answer1>wykresy punktowe
+wykresy liniowe
+ zwykłe i warstwowe
+wykresy słupkowe
+ grupowane i skumulowane
+wykresy pierścieniowe
+wykresy przestrzenne
+powierzchniowe i słupkowe</answer1>
+		<answer2>dla małych różnic:
+ punktowe, liniowe
+ słupkowe pionowe i poziome
+ biegunowe(pajęczyna)
+ kołowe
+dla dużych różnic:
+ powierzchniowe
+ obrazkowe(symbole)
+dla ogromnych różnic:
+ przestrzenne</answer2>
+		<answer3> wykresy porównawcze(statystyczne)
+ mapy występowania
+ wykresy wypełnienia
+ schematy blokowe</answer3>
+		<answer4> proste
+ złożone</answer4>
+	</question>	
+	<question>
+		<description>Czym jest Sonifikacja zorientowana na model</description>
+		<answer1>każda sytuacja daje jakiś skutek dźwiękowy (tzw. dźwięk zwrotny), analiza danych statycznych, przeszukiwanie separowanych klas</answer1>
+		<answer2>Analizą danych sejsmicznych</answer2>
+		<answer3>przekształcanie danych do postaci relacji postrzeganych w sygnale akustycznym (wizualizacja akustyczna)</answer3>
+		<answer4>Reprezentacją głosową figur</answer4>
+	</question>	<question>
+		<description>Wymień rodzaje metody węzły-gałęzie metody wizualizacji hierarchii</description>
+		<answer1>metoda warstwowa
+dendrogram
+metoda katalogowa
+metoda radialna
+H-drzewo</answer1>
+		<answer2>metoda drzewa sopli
+metoda radialna
+metoda promieni słonecznych
+drzewmapa</answer2>
+		<answer3></answer3>
+		<answer4></answer4>
+	</question>
+	<question>
+		<description>Wymień rodzaje metody wypełnienia  wizualizacji hierarchii</description>
+		<answer1>metoda drzewa sopli
+metoda radialna
+metoda promieni słonecznych
+drzewmapa</answer1>
+		<answer2>metoda warstwowa
+dendrogram
+metoda katalogowa
+metoda radialna
+H-drzewo</answer2>
+		<answer3></answer3>
+		<answer4></answer4>
+	</question>
+	<question>
+		<description>Jak definiujemy dźwięk</description>
+		<answer1>wrażenie słuchowe spowodowane falami akustycznymi 16Hz - 16KHz</answer1>
+		<answer2>amplituda sygnału, może być zakłócona przez środowisko</answer2>
+		<answer3>dźwięk jako suma sygnałów o róźnych częstotliwościach</answer3>
+		<answer4>trudna do zdefiniowania, bliska strukturze widmowej</answer4>
+	</question>
+	<question>
+		<description>Jak definiujemy widmo?</description>
+		<answer1>dźwięk jako suma sygnałów o róźnych częstotliwościach</answer1>
+		<answer2>wrażenie słuchowe spowodowane falami akustycznymi 16Hz - 16KHz</answer2>
+		<answer3>amplituda sygnału, może być zakłócona przez środowisko</answer3>
+		<answer4>trudna do zdefiniowania, bliska strukturze widmowej</answer4>
+	</question>
+	<question>
+		<description>Jak definiujemy barwę dźwięku?</description>
+		<answer1>trudna do zdefiniowania, bliska strukturze widmowej</answer1>
+		<answer2>wrażenie słuchowe spowodowane falami akustycznymi 16Hz - 16KHz</answer2>
+		<answer3>dźwięk jako suma sygnałów o róźnych częstotliwościach</answer3>
+		<answer4>amplituda sygnału, może być zakłócona przez środowisko</answer4>
+	</question>
+		<question>
+		<description>Wymień rodzaje map wystepowania</description>
+		<answer1>mapy kropkowe i bąbelkowe
+kartogramy
+kartodiagramy
+mapy izarytmiczne i zasięgu</answer1>
+		<answer2>cyklogramy
+harmonogramy</answer2>
+		<answer3>schematy sterowania
+schematy organizacyjne
+schematy powiązan
+diagramy przepływu</answer3>
+		<answer4></answer4>
+	</question>
+	<question>
+		<description>Wymień rodzaj wykresów wypełnienia</description>
+		<answer1>cyklogramy
+harmonogramy</answer1>
+		<answer2>mapy kropkowe i bąbelkowe
+kartogramy
+kartodiagramy
+mapy izarytmiczne i zasięgu</answer2>
+		<answer3>schematy sterowania
+schematy organizacyjne
+schematy powiązan
+diagramy przepływu</answer3>
+		<answer4></answer4>
+	</question>
+	<question>
+		<description>Wymień rodzaje schematów blokowych</description>
+		<answer1>schematy sterowania
+schematy organizacyjne
+schematy powiązan
+diagramy przepływu</answer1>
+		<answer2>cyklogramy
+harmonogramy</answer2>
+		<answer3>mapy kropkowe i bąbelkowe
+kartogramy
+kartodiagramy
+mapy izarytmiczne i zasięgu</answer3>
+		<answer4></answer4>
+	</question>
+</test>

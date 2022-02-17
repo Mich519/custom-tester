@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+:root {
+    --color-scheme-1: #ee6c4d;
+    --color-scheme-2: #98c1d9;
+    --color-scheme-3: #3d5a80;
+    --color-scheme-4: #293241;
+
+    --font-light-color: white;
+    --font-dark-color: black;
+
+    font-family: 'Roboto';
+    color: var(--font-light-color);
+}
+
+body {
+    background-color: var(--color-scheme-4);
+    margin: 0;
+}
+
+header {
+    background-color: var(--color-scheme-3);
+}
+
+h1 {
+    margin: 0;
+    text-align: center;
+    box-sizing: border-box;
+    padding: 1%;
+}
+
+#question-container {
+    box-sizing: border-box;
+    background-color: var(--color-scheme-3);
+    padding: 2%;
+    margin: 5% 5%;
+}
+
+#description-container {
+    color: var(--font-light-color);
+    text-align: center;
+    background-color: var(--color-scheme-4);
+    padding: 1%;
+    border-style: solid;
+    border-color: var(--color-scheme-2);
+}
+
+p {
+    display: inline
+}
+
+
+
+
+
